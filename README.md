@@ -23,5 +23,5 @@
       <li>JavaScript: Implementing the functionality, including speech recognition and background color change.</li>
   </ul>
 
-  <h2>Demo</h2>
-  <p>You can try out the application <a href="#">here</a> (link to your deployed application).</p>
+  <h2>Demo Link</h2>
+  <p>You can try out the application <a href="https://speak-background-color.vercel.app/" target="_blank">here</a></p>
